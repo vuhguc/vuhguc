@@ -1,0 +1,15 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "August 2018 - December 2018",
+			"company" : "UC Professor John Franco's Lab",
+			"description" : "Developed the monitor for the cyber-security wargame I-Wars with Java that handles requests from clients."
+		},
+		{
+			"timeperiod" : "August 2018 - Present",
+			"company" : "The Innovative Clinical Data Capture and Use Lab",
+			"description" : "Developed and applied text processing algorithms for medical documents."
+		}
+	]
+}

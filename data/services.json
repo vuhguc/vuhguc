@@ -1,0 +1,13 @@
+{
+	"title" : "Projects",
+	"services" : [
+		{
+			"title" : "Phishing Email Detection",
+			"description" : "Developed a Machine Learning model with Python scikit-learn on a database of emails to classify phishing emails."
+		},
+		{
+			"title" : "Graphics Design",
+			"description" : "Developed a Java backend algorithm utilizing Google Maps API to find the most time-saving path for a student taxi service to pick up and drop off students at multiple locations."
+		}
+	]
+}
